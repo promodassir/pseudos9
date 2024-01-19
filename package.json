@@ -1,0 +1,46 @@
+{
+  "title": "CSS-Selector",
+  "name": "css-selector",
+  "version": "1.4.3",
+  "description": "A pure-JavaScript fast, CSS selector engine program to be easily select DOM-Elements",
+  "scripts": {
+    "build": "npm install && grunt",
+    "start": "grunt start",
+    "test": "grunt && grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqrony/snizzle.git"
+  },
+  "directories": {
+    "dist": "dist",
+    "test": "test"
+  },
+  "keywords": [
+    "snizzle",
+    "hot selector",
+    "CSS",
+    "selectors",
+    "pseudo",
+    "jqrony",
+    "library",
+    "javascript"
+  ],
+  "author": "Shahzada Modassir (https://github.com/jqrony/snizzle/blob/main/AUTHORS.txt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqrony/snizzle/issues"
+  },
+  "homepage": "https://github.com/jqrony/snizzle#readme",
+  "dependencies": {
+    "snizzle": "^1.5.0",
+    "identicone": "^1.0.0",
+    "jqrony": "^1.0.0",
+    "pointenv": "^1.2.1",
+    "placeholder-ui": "^1.1.0",
+    "entcoder": "^1.0.0",
+    "ftqueue": "^1.0.0",
+    "cookmate": "^1.0.1",
+    "layout-resizer": "^1.0.3"
+  }
+}
